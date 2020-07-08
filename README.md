@@ -1,5 +1,5 @@
 # Datatable Example
-Laravel project that displays a dynamically created datatable using the [Age of Empires 2 API](https://age-of-empires-2-api.herokuapp.com/api/v1)
+Laravel project that displays a dynamically created datatable using the [Age of Empires 2 API](https://github.com/aalises/age-of-empires-II-api)
 
 
 * The datatable is created using [datatable.net](https://datatables.net/) and styled as a Bootstrap 4 datatable using [MDBootstrap](https://mdbootstrap.com/docs/jquery/tables/datatables/).
